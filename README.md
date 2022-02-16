@@ -6,6 +6,19 @@ This repository is inspired by [TILs from Thoughtbot][thoughtbot-tils].
 
 For new TILs, follow me on [Twitter][twitter].
 
+---
+
+### Categories
+
+- [Clojure](#clojure)
+
+---
+
+### Clojure
+
+- [Returned from swap!](clojure/returned_from_swap\!.md)
+- [Thread `->` vs. doto](clojure/thread_vs_doto.md)
+
 ## License
 
 © 2022 Matthew Boston
