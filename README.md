@@ -11,6 +11,6 @@ For new TILs, follow me on [Twitter][twitter].
 © 2022 Matthew Boston
 Distributed under the [Creative Commons Attribution 4.0 International license][license].
 
+[license]: http://creativecommons.org/licenses/by/4.0/
 [thoughtbot-tils]: https://github.com/thoughtbot/til
 [twitter]: https://twitter.com/bostonaholic
-[license]: http://creativecommons.org/licenses/by/4.0/
