@@ -8,9 +8,9 @@ For new TILs, follow me on [Twitter][twitter].
 
 ## License
 
-© 2015 Matthew Boston
-Distributed under the [Creative Commons Attribution License][license].
+© 2022 Matthew Boston
+Distributed under the [Creative Commons Attribution 4.0 International license][license].
 
 [thoughtbot-tils]: https://github.com/thoughtbot/til
 [twitter]: https://twitter.com/bostonaholic
-[license]: http://creativecommons.org/licenses/by/3.0/
+[license]: http://creativecommons.org/licenses/by/4.0/
