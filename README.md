@@ -11,6 +11,7 @@ For new TILs, follow me on [Twitter][twitter].
 ### Categories
 
 - [Clojure](#clojure)
+- [OAuth](#oauth)
 
 ---
 
@@ -18,6 +19,10 @@ For new TILs, follow me on [Twitter][twitter].
 
 - [Returned from swap!](clojure/returned_from_swap\!.md)
 - [Thread `->` vs. doto](clojure/thread_vs_doto.md)
+
+### OAuth
+
+- [client_credentials No Refresh Token](oauth/client_credentials_no_refresh_token.md)
 
 ## License
 
