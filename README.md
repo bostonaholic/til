@@ -2,7 +2,7 @@
 
 This is a repository of things I've learned as I go about my day. TILs are short Markdown documents explaining concepts, syntax, commands, or other developer tips I've recently learned.
 
-This repository is inspired by [TILs from Thoughtbot][thoughtbot-tils].
+This repository is inspired by [TILs from Thoughtbot][thoughtbot-tils] and [TILs from jbranchaud][jbranchaud-tils].
 
 For new TILs, follow me on [Twitter][twitter].
 
@@ -26,4 +26,5 @@ Distributed under the [Creative Commons Attribution 4.0 International license][l
 
 [license]: http://creativecommons.org/licenses/by/4.0/
 [thoughtbot-tils]: https://github.com/thoughtbot/til
+[jbranchaud-tils]: https://github.com/jbranchaud/til
 [twitter]: https://twitter.com/bostonaholic
