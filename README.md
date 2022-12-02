@@ -11,6 +11,7 @@ For new TILs, follow me on [Twitter][twitter].
 ### Categories
 
 - [Clojure](#clojure)
+- [curl](#curl)
 - [Kubernetes](#kubernetes)
 - [OAuth](#oauth)
 
@@ -20,6 +21,10 @@ For new TILs, follow me on [Twitter][twitter].
 
 - [Returned from swap!](clojure/returned_from_swap\!.md)
 - [Thread `->` vs. doto](clojure/thread_vs_doto.md)
+
+### curl
+
+- [data or form](curl/data-or-form.md)
 
 ### Kubernetes
 
