@@ -1,6 +1,6 @@
 # Client Credentials No Refresh Token
 
-:idea: When granting Client Credentials via the `grant_type=client_credentials`, the server should not include a refresh token in the response. And therefor clients should not expect the `refresh_token` in the access token response.
+:bulb: When granting Client Credentials via the `grant_type=client_credentials`, the server should not include a refresh token in the response. And therefor clients should not expect the `refresh_token` in the access token response.
 
 > If the access token request is valid and authorized, the
 > authorization server issues an access token as described in
