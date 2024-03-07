@@ -24,6 +24,8 @@ user=> (swap! bar assoc :b 1)
 {:b 1, :a 0}
 ```
 
-That seems a bit odd. I thought I had _swapped in_ `{:b 1}` but the entire Map was returned.
+:confused: That seems a bit odd. I thought I had _swapped in_ `{:b 1}` but the entire Map was returned.
 
-This is because `assoc` _swaps in_ an entirely new Map.
+:bulb: This is because `assoc` _swaps in_ an entirely new Map.
+
+:tada: Happy coding!
