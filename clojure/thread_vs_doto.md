@@ -22,7 +22,7 @@ user=> (class (swap! foo inc))
 java.lang.Long
 ```
 
-Therefor you cannot simply thread an atom through functions which perform on atoms.
+:idea: You cannot simply thread an atom through functions which perform on atoms.
 
 You can however, use `doto`.
 
@@ -33,4 +33,6 @@ user=> (doto foo
 #<Atom@3cdb26ad: 9>
 ```
 
-In summary, use `doto` for side effects and mutable objects.
+:idea: In summary, use `doto` for side effects and mutable objects.
+
+:tada: Happy coding!
