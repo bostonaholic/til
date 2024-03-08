@@ -1,6 +1,6 @@
 # Data or Form
 
-## `--data`
+## `--data` or `-d`
 
 :bulb: Issues a `POST` request automatically as `Content-Type: application/x-www-form-urlencoded`. The same as submitting an HTML form in a browser.
 
@@ -14,9 +14,7 @@ Example: send form data from a local file
     curl -d @filename https://example.com
 ```
 
-## `--form`
-
-`content-type: multipart/form-data`
+## `--form` or `-F`
 
 :bulb: Issues a `POST` request with `Content-Type: multipart/form-data`. This enables uploading of binary files etc.
 
