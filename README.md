@@ -12,6 +12,7 @@ For new TILs, follow me on [Twitter][twitter].
 
 - [Clojure](#clojure)
 - [curl](#curl)
+- [diff](#diff)
 - [Kubernetes](#kubernetes)
 - [OAuth](#oauth)
 
@@ -25,6 +26,10 @@ For new TILs, follow me on [Twitter][twitter].
 ### curl
 
 - [data or form](curl/data-or-form.md)
+
+### diff
+
+- [diff directory contents](diff/directory_contents.md)
 
 ### Kubernetes
 
