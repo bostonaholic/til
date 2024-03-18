@@ -4,7 +4,7 @@ This is a repository of things I've learned as I go about my day. TILs are short
 
 This repository is inspired by [TILs from Thoughtbot][thoughtbot-tils] and [TILs from jbranchaud][jbranchaud-tils].
 
-For new TILs, follow me on [Twitter][twitter].
+For new TILs, follow me on [Twitter][twitter] or [LinkedIn][linkedin].
 
 ---
 
@@ -48,3 +48,4 @@ Distributed under the [Creative Commons Attribution 4.0 International license][l
 [thoughtbot-tils]: https://github.com/thoughtbot/til
 [jbranchaud-tils]: https://github.com/jbranchaud/til
 [twitter]: https://twitter.com/bostonaholic
+[linkedin]: https://www.linkedin.com/in/bostonaholic
