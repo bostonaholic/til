@@ -4,7 +4,7 @@
 
 **Query:**
 
-Find users with more than one pet.
+Find registered users with more than one pet.
 
 ```sql
 SELECT email, count(*)
@@ -18,9 +18,10 @@ HAVING count(*) > 1
 
 | id | email | pet_id |
 |----|-------|--------|
-| 1  | <alice@example.com> | 4 |
-| 2  | <bob@example.com>   | 5 |
-| 3  | <alice@example.com> | 6 |
+| 1  | <alice@example.com> | 5 |
+| 2  | <bob@example.com>   | 6 |
+| 3  | NULL                | 7 |
+| 4  | <alice@example.com> | 8 |
 
 **Result:**
 
