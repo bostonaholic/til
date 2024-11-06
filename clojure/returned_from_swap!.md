@@ -1,10 +1,10 @@
-# Returned from swap!
+# Returned from `swap!`
 
 From the documentation of `swap!`.
 
 > Returns the value that was swapped in.
 
-```
+```plaintext
 user=> (def foo (atom 0))
 #'user/foo
 user=> (swap! foo inc)
@@ -15,7 +15,7 @@ OK, that seems right.
 
 How about this?
 
-```
+```plaintext
 user=> (def bar (atom {}))
 #'user/bar
 user=> (swap! bar assoc :a 0)

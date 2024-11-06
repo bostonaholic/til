@@ -1,8 +1,8 @@
-# Thread `->` vs. doto
+# Thread `->` vs. `doto`
 
 I ran into an issue when trying to thread (`->`) an atom.
 
-```
+```plaintext
 user=> (def foo (atom 2))
 #'user/foo
 user=> (-> foo
@@ -15,7 +15,7 @@ Taken from the documentation of `swap!`
 
 > Returns the value that was swapped in.
 
-```
+```plaintext
 user=> (class foo)
 clojure.lang.Atom
 user=> (class (swap! foo inc))
@@ -26,7 +26,7 @@ java.lang.Long
 
 You can however, use `doto`.
 
-```
+```plaintext
 user=> (doto foo
              (swap! inc)
              (swap! square))

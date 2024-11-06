@@ -18,14 +18,14 @@ HAVING count(*) > 1
 
 | id | email             | pet_id |
 |----|-------------------|--------|
-| 1  | alice@example.com | 4      |
-| 2  | bob@example.com   | 5      |
-| 3  | alice@example.com | 6      |
+| 1  | <alice@example.com> | 4      |
+| 2  | <bob@example.com>   | 5      |
+| 3  | <alice@example.com> | 6      |
 
 **Result:**
 
 | email             | count |
 |-------------------|-------|
-| alice@example.com | 2     |
+| <alice@example.com> | 2     |
 
 :tada: Happy coding!
