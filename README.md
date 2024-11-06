@@ -49,7 +49,7 @@ For new TILs, follow me on [Twitter][twitter] or [LinkedIn][linkedin].
 
 ## License
 
-© 2022 Matthew Boston
+© 2024 Matthew Boston
 Distributed under the [Creative Commons Attribution 4.0 International license][license].
 
 [license]: http://creativecommons.org/licenses/by/4.0/
