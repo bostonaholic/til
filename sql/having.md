@@ -1,6 +1,9 @@
 # `HAVING`
 
-:bulb: `HAVING` is a SQL filter similar to `WHERE` except that it filters rows _after_ grouping and `WHERE` filters rows _before_ grouping.
+:bulb: `HAVING` is a SQL filter similar to `WHERE`.
+
+- `WHERE` filters rows _before_ grouping.
+- `HAVING` filters rows _after_ grouping.
 
 **Query:**
 
