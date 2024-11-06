@@ -4,7 +4,7 @@
 
 :bulb: Issues a `POST` request automatically as `Content-Type: application/x-www-form-urlencoded`. The same as submitting an HTML form in a browser.
 
-```
+```plaintext
 Example:
 
     curl -d name=John https://example.com/
@@ -18,7 +18,7 @@ Example: send form data from a local file
 
 :bulb: Issues a `POST` request with `Content-Type: multipart/form-data`. This enables uploading of binary files etc.
 
-```
+```plaintext
 Example:  send an image to an HTTP server, where 'profile' is the name of the form-field to which the file portrait.jpg will be the input:
 
     curl -F profile=@portrait.jpg https://example.com/upload.cgi
