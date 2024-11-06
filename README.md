@@ -16,6 +16,7 @@ For new TILs, follow me on [Twitter][twitter] or [LinkedIn][linkedin].
     - [curl](#curl)
     - [diff](#diff)
     - [Kubernetes](#kubernetes)
+    - [Rails](#rails)
     - [OAuth](#oauth)
   - [License](#license)
 
@@ -37,6 +38,10 @@ For new TILs, follow me on [Twitter][twitter] or [LinkedIn][linkedin].
 ### Kubernetes
 
 - [probes](kubernetes/probes.md)
+
+### Rails
+
+- [in_batches](rails/in_batches.md)
 
 ### OAuth
 
