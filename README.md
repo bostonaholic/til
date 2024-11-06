@@ -8,13 +8,16 @@ For new TILs, follow me on [Twitter][twitter] or [LinkedIn][linkedin].
 
 ---
 
-### Categories
+## Categories
 
-- [Clojure](#clojure)
-- [curl](#curl)
-- [diff](#diff)
-- [Kubernetes](#kubernetes)
-- [OAuth](#oauth)
+- [Today I Learned](#today-i-learned)
+  - [Categories](#categories)
+    - [Clojure](#clojure)
+    - [curl](#curl)
+    - [diff](#diff)
+    - [Kubernetes](#kubernetes)
+    - [OAuth](#oauth)
+  - [License](#license)
 
 ---
 
