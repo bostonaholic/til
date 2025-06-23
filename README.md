@@ -18,6 +18,7 @@ For new TILs, follow me on [Twitter][twitter] or [LinkedIn][linkedin].
     - [Kubernetes](#kubernetes)
     - [SQL](#sql)
     - [Rails](#rails)
+    - [tr](#tr)
     - [OAuth](#oauth)
   - [License](#license)
 
@@ -47,6 +48,10 @@ For new TILs, follow me on [Twitter][twitter] or [LinkedIn][linkedin].
 ### Rails
 
 - [in_batches](rails/in_batches.md)
+
+### tr
+
+- [upcase](tr/upcase.md)
 
 ### OAuth
 
