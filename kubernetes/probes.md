@@ -10,4 +10,4 @@ A **Startup probe** is used to know when an application has started. When used, 
 
 [Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/)
 
-:tada: Happy coding!
+🎉 Happy coding!

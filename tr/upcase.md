@@ -1,6 +1,6 @@
 # Upcasing with `tr`
 
-:bulb: `tr` translates characters from one set to another.
+💡 `tr` translates characters from one set to another.
 
 ## Basic Usage
 
@@ -31,7 +31,7 @@ for file in *.txt; do
 done
 ```
 
-:bulb: Unlike `awk` or `sed`, `tr` is specifically designed for character-by-character transformations, making it faster for simple case conversions.
+💡 Unlike `awk` or `sed`, `tr` is specifically designed for character-by-character transformations, making it faster for simple case conversions.
 
 ## Useful Aliases
 
@@ -63,4 +63,4 @@ cat README.md | upcase
 
 [man tr](https://manpages.org/tr)
 
-:tada: Happy coding!
+🎉 Happy coding!

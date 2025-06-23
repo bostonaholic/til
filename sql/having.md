@@ -1,6 +1,6 @@
 # `HAVING`
 
-:bulb: `HAVING` is a SQL filter similar to `WHERE`.
+💡 `HAVING` is a SQL filter similar to `WHERE`.
 
 - `WHERE` filters rows _before_ grouping.
 - `HAVING` filters rows _after_ grouping.
@@ -32,4 +32,4 @@ HAVING count(*) > 1
 |-------|-------|
 | <alice@example.com> | 2 |
 
-:tada: Happy coding!
+🎉 Happy coding!

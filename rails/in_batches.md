@@ -10,7 +10,7 @@ User.in_batches(of: 1000) do |batch|
 end
 ```
 
-:bulb: `in_batches` will automatically use `.select(:id)` to fetch the batch of record ids instead of fetching the entire record. This improves performance and memory usage.
+💡 `in_batches` will automatically use `.select(:id)` to fetch the batch of record ids instead of fetching the entire record. This improves performance and memory usage.
 
 This means that `User.select(:id).in_batches(of: 1000)` is unnecessary.
 
@@ -26,6 +26,6 @@ vs.
 User.in_batches(of: 1000, &:destroy_all)
 ```
 
-:bulb: You can pass a block to `in_batches` to perform an action on each batch. The former will generate a single SQL query to fetch all the ids and then iterate over each batch. The latter will generate a single SQL query per batch.
+💡 You can pass a block to `in_batches` to perform an action on each batch. The former will generate a single SQL query to fetch all the ids and then iterate over each batch. The latter will generate a single SQL query per batch.
 
-:tada: Happy coding!
+🎉 Happy coding!
