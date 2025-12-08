@@ -15,6 +15,7 @@ For new TILs, follow me on [Twitter][twitter] or [LinkedIn][linkedin].
     - [Clojure](#clojure)
     - [curl](#curl)
     - [diff](#diff)
+    - [git](#git)
     - [Kubernetes](#kubernetes)
     - [SQL](#sql)
     - [Rails](#rails)
@@ -36,6 +37,10 @@ For new TILs, follow me on [Twitter][twitter] or [LinkedIn][linkedin].
 ### diff
 
 - [diff directory contents](diff/directory_contents.md)
+
+### git
+
+- [git update-ref](git/update-ref.md)
 
 ### Kubernetes
 
