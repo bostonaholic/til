@@ -1,8 +1,11 @@
 # Today I Learned
 
-This is a repository of things I've learned as I go about my day. TILs are short Markdown documents explaining concepts, syntax, commands, or other developer tips I've recently learned.
+This is a repository of things I've learned as I go about my day. TILs are
+short Markdown documents explaining concepts, syntax, commands, or other
+developer tips I've recently learned.
 
-This repository is inspired by [TILs from Thoughtbot][thoughtbot-tils] and [TILs from jbranchaud][jbranchaud-tils].
+This repository is inspired by [TILs from Thoughtbot][thoughtbot-tils] and
+[TILs from jbranchaud][jbranchaud-tils].
 
 For new TILs, follow me on [Twitter][twitter] or [LinkedIn][linkedin].
 
