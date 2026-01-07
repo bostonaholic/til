@@ -15,6 +15,7 @@ For new TILs, follow me on [Twitter][twitter] or [LinkedIn][linkedin].
 
 - [Today I Learned](#today-i-learned)
   - [Categories](#categories)
+    - [Claude Code](#claude-code)
     - [Clojure](#clojure)
     - [curl](#curl)
     - [diff](#diff)
@@ -27,6 +28,10 @@ For new TILs, follow me on [Twitter][twitter] or [LinkedIn][linkedin].
   - [License](#license)
 
 ---
+
+### Claude Code
+
+- [/security-review](claude-code/security-review.md)
 
 ### Clojure
 
